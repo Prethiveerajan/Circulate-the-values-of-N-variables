@@ -27,7 +27,8 @@ def circulate():
 ````
 
 ## Output:
-![Uploading Screenshot (82).png…]()
+![Screenshot (82)](https://user-images.githubusercontent.com/94233064/143885098-38716a5f-44e0-4941-901c-7aee821fafc3.png)
+
 
 
 
