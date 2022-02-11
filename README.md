@@ -4,7 +4,11 @@ To write a python program to circulate the n variables using function concept
 ## Equipment’s required:
 PC
 Anaconda - Python 3.7
-## Algorithm: 
+## Algorithm:
+1: Define the input type
+2: Get the value from the user for the number of rotation
+3: Using the slicing concept rotate the list
+4: Print the output
 Step 1:
 Import numpy
 
